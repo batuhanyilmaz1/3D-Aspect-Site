@@ -12,3 +12,5 @@
 - Ödeme: Shopier (Webhook & Redirect)
 
 - Güvenlik: JWT Authentication & CORS Management (Eklenicek)
+
+Bu proje MIT LICENSE ile lisanslanmıştır.
